@@ -13,7 +13,7 @@ A full-stack Real Estate application with React Native, featuring Google authent
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020" alt="expo" />
-- <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=reactnative&color=06B6D4" alt="reactnative" />
+- <img src="https://img.shields.io/badge/-React%20Native-black?style=for-the-badge&logo=react&logoColor=white&color=000020" alt="React Native" />
 - <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
 - <img src="https://img.shields.io/badge/-Nativewind-black?style=for-the-badge&logoColor=white&logo=nativewind&color=FD366E" alt="nativewind" />
 - <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
